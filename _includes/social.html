@@ -1,0 +1,32 @@
+Follow me:
+<div id="stalker">
+  {% if site.theme.social.google_plus %}
+  <a title="{{ site.theme.name }} on Google+" href="https://plus.google.com/+{{ site.theme.social.google_plus }}">
+    <i class="icon-sign-blank"></i>
+    <span class="icon-overlay icon-google-plus"></span>
+  </a>
+  {% endif %}
+
+  {% if site.theme.social.github %}
+  <a title="{{ site.theme.social.github }} on Github" href="http:s//github.com/{{ site.theme.social.github }}">
+    <i class="icon-github-sign"></i>
+  </a>
+  {% endif %}
+
+  {% if site.theme.social.hacker_news %}
+  <a title="{{ site.theme.social.hacker_news }} on Hacker News" href="https://news.ycombinator.com/user?id={{site.theme.social.hacker_news }}">
+    <i class="icon-sign-blank"></i>
+    <span class="icon-overlay icon-hn">Y</span>
+  </a>
+  {% endif %}
+
+  {% if site.theme.social.twitter %}
+  <a title="{{ site.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.theme.social.twitter }}">
+    <i class="icon-twitter-sign"></i>
+  </a>
+  {% endif %}
+
+  <a title="RSS feed" id="rss" href="/atom.xml">
+    <i class="icon-rss-sign"></i>
+  </a>
+</div>

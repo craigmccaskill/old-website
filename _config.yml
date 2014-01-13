@@ -1,0 +1,28 @@
+# General Jekyll Config
+pygments: true
+url: http://craigmccaskill.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#BE0A00'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    google_plus: CraigMcCaskill
+    github: craigmccaskill
+    twitter: craigmccaskill
+    hacker_news: craigmccaskill
+
+  # "Hi, I'm _______"
+  name: Craig McCaskill
+  email: hello@craigmccaskill.com
+  tagline: "Design and product thinker"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: false
