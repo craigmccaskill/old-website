@@ -1,7 +1,7 @@
 # General Jekyll Config
 pygments: true
 url: http://craigmccaskill.com
-lsi: false
+lsi: true
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 # Theme customization - please change from the defaults!
