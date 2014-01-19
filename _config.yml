@@ -4,7 +4,7 @@ url: http://craigmccaskill.com
 lsi: true
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
-# Theme customization - please change from the defaults!
+# Theme customization
 theme:
   # Color for top bar, links, etc
   highlight_color: '#BE0A00'
