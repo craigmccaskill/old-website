@@ -40,7 +40,7 @@ While the focus of this book is really about the design of digital products such
 
 Jesse breaks UX down into five elements (I know, right?): Surface, Skeleton, Structure, Scope and Strategy and teaches us that each of these elements builds and improves on the other. 
 
-*insert image here*
+![The Elements of User Experience]({{ site.url }}/assets/post-img/elements-of-ux.png)
 
 *	Surface: A series of pages, made up of images and text.
 *	Skeleton: The placement of components within the pages, such as buttons, text and images.
