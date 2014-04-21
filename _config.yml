@@ -4,6 +4,8 @@ url: http://craigmccaskill.com
 lsi: true
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
+permalink: none
+
 # Theme customization
 theme:
   # Color for top bar, links, etc
