@@ -4,9 +4,9 @@ published: false
 
 ## This is the future, where's my email Jetpack damnit?!
 
-It's hard to think of a technology which has changed so little since it's inception.
+It's hard to think of a technology which has changed so little since its inception.
 
-Despite being used by such a large number of people daily, email hasn't conceptually changed since it's inception in the 60's. We're still basically just sending text messages 
+Despite being used by such a large number of people daily, email hasn't conceptually changed since it's inception in the 60s. We're still basically just sending text messages m8 lol. 
 
 The main innovation to email in recent days doens't come from making it easier to use or streamlining the processes involved but instead revolving around advancements to notifications and the email everywhere movement.
 
