@@ -12,19 +12,17 @@ Usability study on some basic interactions within GitHub for Mac. I love GitHub 
 ##Test Parameters
 * What: GitHub for Mac
 * Who: People familiar with Git and GitHub (have used both at least a couple of times in the last month) who have not used GitHub for Mac before.
-* Where: Denziens of various coffee shops in the SOMA district of San Francisco. 
+* Where: Denizens of various coffee shops in the SOMA district of San Francisco. 
 
 ###Test Tasks
 It's important to set a base line of what you're actually testing for things like this, so all users were asked to complete the following actions within the product:
 
 1. Clone a repository from a GitHub page.
 2. View most recent set of commits
-3. Break up changes into two partial commits*
+3. Break up changes into two partial commits
 4. Update with server
 5. Change branch
 6. Merge current branch with master
-
-*This is something that GitHub for Mac actually does really well - but isn't immediately noticable to the user. 
 
 These tasks were selected as (with the exception of number 3) they are all fundamental git interactions. 
 
